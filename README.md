@@ -1,6 +1,6 @@
 # Input Masks Pratice  
 
-> **This project I pratice ReactJS making a masked input element**  
+> **This project I pratice ReactJS making a masked input Component**  
 
 ## Runing the project
 
