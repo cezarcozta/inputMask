@@ -11,14 +11,14 @@
 - Clone this repository:  
 `git clone http://github.com/cezarcozta/inputMask.git`  
 
-- Install the dependencies: 
+- Install the dependencies:  
 `yarn`  
 
 - Run the App  
 `yarn start`  
 
 - See the broweser on:  
-(loaclhost[http://localhost:3000])  
+[http://localhost:3000]  
 
 ### Author  
 
