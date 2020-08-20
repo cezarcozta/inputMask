@@ -26,6 +26,6 @@
 ### Author  
 
 - César Augusto Costa  
-- [https://cezarcozta.com]  
-- [https://www.linkedin.com/in/cezarcozta]  
-- cezarcozta@gmail.com  
+- [cezarcozta.com](https://cezarcozta.com)  
+- [Linkedin](https://www.linkedin.com/in/cezarcozta)  
+- [Gmail](cezarcozta@gmail.com)  
