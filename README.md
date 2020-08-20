@@ -18,7 +18,7 @@
 `yarn start`  
 
 - See the broweser on:  
-[http://localhost:3000]  
+`http://localhost:3000`  
 
 ### Author  
 
