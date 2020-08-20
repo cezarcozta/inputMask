@@ -28,4 +28,4 @@
 - César Augusto Costa  
 - [cezarcozta.com](https://cezarcozta.com)  
 - [Linkedin](https://www.linkedin.com/in/cezarcozta)  
-- [Gmail](cezarcozta@gmail.com)  
+- E-mail: cezarcozta@gmail.com
