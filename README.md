@@ -11,7 +11,7 @@
 - Clone this repository:  
 `git clone http://github.com/cezarcozta/inputMask.git`  
 
-- Access project folder:
+- Access project folder:  
 `cd inputMask`  
 
 - Install the dependencies:  
