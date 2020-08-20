@@ -11,6 +11,9 @@
 - Clone this repository:  
 `git clone http://github.com/cezarcozta/inputMask.git`  
 
+- Access project folder:
+`cd inputMask`  
+
 - Install the dependencies:  
 `yarn`  
 
@@ -23,6 +26,6 @@
 ### Author  
 
 - César Augusto Costa  
-- cezarcozta.com[https://cezarcozta.com]  
-- Linkedin[https://www.linkedin.com/in/cezarcozta]  
+- [https://cezarcozta.com]  
+- [https://www.linkedin.com/in/cezarcozta]  
 - cezarcozta@gmail.com  
